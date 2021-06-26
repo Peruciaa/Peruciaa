@@ -1,4 +1,1 @@
-- 👋 Heyo, I’m @Peruciaa
-- 👀 I’m interested in prgramming :)
-- 🌱 I’m currently learning node.js and python.
-- 📫 How to reach me? You can talk through me on Discord.
+abababababababababa
